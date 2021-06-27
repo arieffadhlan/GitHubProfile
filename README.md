@@ -25,7 +25,7 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" />][linkedIn]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.freepnglogos.com/uploads/instagram-logos-png-images-free-download-2.png" />][instagram]
 
 [LinkedIn]: https://www.linkedin.com/in/muhammad-arief-f-b3217b175/
 [instagram]: https://instagram.com/arieffadhlann
