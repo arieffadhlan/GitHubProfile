@@ -1,7 +1,7 @@
 ## Hi, I'm Arief 👋
 
-- I'm a Information Technology Student!
-- 🌱 I’m currently learning Javascript and Laravel
+- 👨‍🎓 I'm a Information Technology Student!
+- 👨‍💻 I’m currently learning Javascript and Laravel
 
 <br />
 
