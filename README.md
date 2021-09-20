@@ -11,6 +11,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://api.iconify.design/logos/react.svg" />
 <img align="left" alt="PHP" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/php-logo-png-transparent.png" />
 <img align="left" alt="Laravel" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/laravel-logo-png-transparent.png" />
 <img align="left" alt="C++" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/c-logo-png-transparent.png" />
