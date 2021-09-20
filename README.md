@@ -1,7 +1,7 @@
 ## Hi, I'm Arief 👋
 
 - 👨‍🎓 I'm a Information Technology Student!
-- 👨‍💻 I’m currently learning JavaScript, React, and Laravel
+- 👨‍💻 I’m currently learning JavaScript and Laravel
 
 <br />
 
@@ -28,6 +28,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
+<img align="left" alt="Gitlab" width="26px" src="https://code.iconify.design/2/2.0.3/iconify.min.js" />
 
 <br />
 <br />
